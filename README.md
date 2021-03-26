@@ -24,13 +24,13 @@
 |   [BERT](https://huggingface.co/bert-base-chinese)    |   81.17%  |   65.67%  |   87.77%  |   81.62%  |
 | [MC-BERT](https://github.com/alibaba-research/ChineseBLUE)   |   80.93%  |   66.15%  |   89.04%  |   80.65%  |
 | [PCL-BERT](https://code.ihub.org.cn/projects/1775)  |   81.58%  |   67.02%  |   88.81%  |   80.27%  |
-| [MedBERT](https://huggingface.co/trueto/medbert-base-chinese)   |   82.29%  |   66.49%  |   88.32%  |   **81.77%**  |
-|[MedBERT-wwm](https://huggingface.co/trueto/medbert-base-wwm-chinese)|   **82.60%**  |   67.11%  |   88.02%  |   81.72%  |
-|[MedBERT-kd](https://huggingface.co/trueto/medbert-kd-chinese) |   82.58%  |   **67.27%**  |   **89.34%**  |   80.73%  |
+| [MedBERT](https://huggingface.co/trueto/medbert-base-chinese)（ours）   |   82.29%  |   66.49%  |   88.32%  |   **81.77%**  |
+|[MedBERT-wwm](https://huggingface.co/trueto/medbert-base-wwm-chinese) （ours）|   **82.60%**  |   67.11%  |   88.02%  |   81.72%  |
+|[MedBERT-kd](https://huggingface.co/trueto/medbert-kd-chinese) （ours）|   82.58%  |   **67.27%**  |   **89.34%**  |   80.73%  |
 |- |   -  |   -  |  -  |   -  |
-|   [Albert](https://huggingface.co/voidful/albert_chinese_base)  |   79.98%  |   62.42%  |   86.81%  |   79.83%  |
-| [MedAlbert](https://huggingface.co/trueto/medalbert-base-chinese) |   81.03%  |   63.81%  |   87.56%  |   80.05%  |
-|[MedAlbert-wwm](https://huggingface.co/trueto/medalbert-base-wwm-chinese)|   **81.28%**  |   **64.12%**  |   **87.71%**  |   **80.46%**  |
+|   [Albert](https://huggingface.co/voidful/albert_chinese_base) |   79.98%  |   62.42%  |   86.81%  |   79.83%  |
+| [MedAlbert](https://huggingface.co/trueto/medalbert-base-chinese) （ours）|   81.03%  |   63.81%  |   87.56%  |   80.05%  |
+|[MedAlbert-wwm](https://huggingface.co/trueto/medalbert-base-wwm-chinese)（ours）|   **81.28%**  |   **64.12%**  |   **87.71%**  |   **80.46%**  |
 
 ## 引用格式
 ```
