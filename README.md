@@ -34,5 +34,5 @@
 
 ## 引用格式
 ```
-杨飞洪,王序文,李姣.BERT模型在中文临床自然语言处理中的应用探索与研究[EB/OL].https://github.com/trueto/medbert, 2021-03.
+XXX,XXX,XXX.BERT模型在中文临床自然语言处理中的应用探索与研究[EB/OL].https://github.com/trueto/medbert, 2021-03.
 ```
